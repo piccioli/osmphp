@@ -6,6 +6,6 @@ class OsmphpClass
 {
     public static function version(): string
     {
-        return '1.0.0';
+        return 'version 1.1.0 - 2023-08-22';
     }
 }
